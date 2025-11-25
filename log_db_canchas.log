@@ -1,0 +1,20 @@
+2025-11-24 23:59:17,910 - INFO - package: mysql.connector.plugins
+2025-11-24 23:59:17,910 - INFO - plugin_name: caching_sha2_password
+2025-11-24 23:59:17,910 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-11-24 23:59:17,912 - INFO - Conexión establecida con MySQL.
+2025-11-24 23:59:17,916 - INFO - Base de datos 'Court_reservation' seleccionada o creada correctamente.
+2025-11-24 23:59:17,922 - INFO - Tabla 'Roles' creada/verificada correctamente.
+2025-11-24 23:59:17,927 - INFO - Tabla 'TipoDocumentos' creada/verificada correctamente.
+2025-11-24 23:59:17,933 - INFO - Tabla 'TipoCancha' creada/verificada correctamente.
+2025-11-24 23:59:17,939 - INFO - Tabla 'MetodosPago' creada/verificada correctamente.
+2025-11-24 23:59:17,944 - INFO - Tabla 'Usuarios' creada/verificada correctamente.
+2025-11-24 23:59:17,948 - INFO - Tabla 'Canchas' creada/verificada correctamente.
+2025-11-24 23:59:17,957 - INFO - Tabla 'Facturas' creada/verificada correctamente.
+2025-11-24 23:59:17,964 - INFO - Tabla 'Pagos' creada/verificada correctamente.
+2025-11-24 23:59:17,971 - INFO - Tabla 'Reservas' creada/verificada correctamente.
+2025-11-24 23:59:17,975 - INFO - Tabla 'DetalleReservas' creada/verificada correctamente.
+2025-11-24 23:59:17,981 - INFO - Tabla 'MovimientosFacturas' creada/verificada correctamente.
+2025-11-24 23:59:17,988 - INFO - Tabla 'HistorialSesiones' creada/verificada correctamente.
+2025-11-24 23:59:17,994 - INFO - Tabla 'OpinionesUsuarios' creada/verificada correctamente.
+2025-11-24 23:59:17,994 - INFO - Todas las tablas creadas correctamente en la base de datos 'db_canchas'.
+2025-11-24 23:59:17,996 - INFO - Conexión MySQL cerrada correctamente.

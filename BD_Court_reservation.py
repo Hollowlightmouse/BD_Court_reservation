@@ -223,7 +223,7 @@ try:
         """)
         logging.info("Tabla 'OpinionesUsuarios' creada/verificada correctamente.")
 
-        print("✓ Todas las tablas fueron creadas correctamente.\n")
+        print(" Todas las tablas fueron creadas correctamente.\n")
         logging.info("Todas las tablas creadas correctamente en la base de datos 'db_canchas'.")
 
         connection.commit()
